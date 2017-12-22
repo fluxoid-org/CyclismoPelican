@@ -44,4 +44,4 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = '../fluxoid_one_page_wonder/'
+THEME = '../FluxoidOnePageWonder/'
