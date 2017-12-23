@@ -25,7 +25,7 @@ MENUITEMS = (
 PAGE_HEADING = {
   'title' : u'Cyclismo',
   'subtitle': u'Free and open-source cycling simulator for Android',
-  'button_text': u'Available from github.com',
+  'button_text': u'Available on GitHub',
   'button_link': u'https://github.com/fluxoid-org/CyclismoProject'
 }
 
